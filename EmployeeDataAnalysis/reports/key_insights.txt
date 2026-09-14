@@ -1,0 +1,13 @@
+KEY BUSINESS INSIGHTS - Employee Attrition Analysis
+=======================================================
+
+1. Overall attrition rate is 16.12% (237 of 1470 employees).
+2. 'Sales' has the highest departmental attrition rate at 20.63%, versus 13.84% in 'Research & Development'.
+3. 'Sales Representative' has the highest attrition rate among job roles at 39.76%, while 'Research Director' has the lowest at 2.5%.
+4. Employees who work overtime leave at 30.53% versus 10.44% for those who do not work overtime - overtime is strongly associated with higher attrition (this is an association, not a proven cause).
+5. Employees with the lowest job satisfaction (level 1) leave at 22.84%, compared to 11.33% for those with the highest satisfaction (level 4).
+6. Employees with the worst work-life balance (level 1) leave at 31.25%, versus 17.65% for those with the best work-life balance (level 4).
+7. Employees who left the company had, on average, $4,787 monthly income versus $6,833 for those who stayed - lower pay is associated with higher turnover.
+8. Salary and total working years show a correlation of 0.77, indicating salary tends to rise with career experience, as expected; performance rating shows a weak correlation with salary (-0.02), suggesting pay is driven more by tenure/level than by the annual performance score in this dataset.
+
+Note: All relationships above describe correlation/association found in this dataset, not proven causation.
