@@ -1,114 +1,125 @@
 # Weather Data Analysis & Dashboard
 
-A data cleaning, exploratory analysis, and dashboard-specification project
-built on a real daily weather dataset — cleaning the data, analyzing
-temperature/humidity/wind/rainfall patterns over time, detecting
-statistical anomalies, and translating the findings into KPIs and a
-Power BI dashboard design.
-
-This project was completed as part of my Machine Learning Engineer
-Internship at **Elevoo Pathways**.
+A data analysis project focused on cleaning historical weather data, exploring temperature, humidity, wind, and rainfall patterns, identifying anomalies, and designing an interactive Power BI dashboard.
 
 ## Project Overview
 
-A weather data platform wants to understand temperature, humidity, wind,
-and rainfall patterns from historical daily weather records: what the
-normal ranges look like, how conditions change across months and seasons,
-which observations are statistically unusual, and which KPIs and
-dashboard views would be most useful for ongoing monitoring.
+The goal of this project was to transform raw daily weather data into meaningful insights through data cleaning, exploratory analysis, statistical analysis, and dashboard design.
 
-## Objectives
+The analysis focuses on:
 
-- Clean and prepare historical weather data
-- Analyze temperature, humidity, rainfall, and wind speed
-- Identify temporal patterns (monthly, seasonal, yearly)
-- Detect unusual/anomalous observations
-- Develop meaningful weather KPIs
-- Specify an interactive Power BI dashboard
-- Extract actionable, number-backed insights
+* Temperature trends and distributions
+* Humidity patterns
+* Wind speed and direction
+* Rainfall patterns
+* Monthly and seasonal changes
+* Statistical anomalies
+* Weather-related KPIs
+* Power BI dashboard design
 
 ## Dataset
 
-- **Records:** 3,271 daily observations
-- **Columns:** 22 raw columns (temperature, rainfall, evaporation,
-  sunshine, wind direction/speed, humidity, pressure, cloud cover, and
-  rain flags) + 14 engineered columns (Year, Month, MonthName, Day,
-  DayOfWeek, Quarter, Season, AvgTemp, TempRange, AvgHumidity,
-  AvgWindSpeed, TempCategory, RainfallCategory, HumidityCategory,
-  WindCategory)
-- **Date range:** 2008-02-01 to 2017-06-25
-- **Locations:** none recorded — the dataset has **no City or Country
-  column**. All analysis in this project reflects a single, unidentified
-  station/location; see `reports/final_report.md` → Limitations.
+* **Records:** 3,271 daily observations
+* **Raw columns:** 22
+* **Engineered columns:** 14
+* **Date range:** February 2008 – June 2017
+* **Location:** Single unidentified weather station
+
+The dataset contains weather variables including temperature, rainfall, humidity, wind speed and direction, atmospheric pressure, cloud cover, sunshine, and rain indicators.
 
 ## Data Cleaning
 
-The raw data had **no missing values, no duplicate rows, and no
-impossible readings** (temperatures, humidity %, wind speed, cloud cover,
-and rainfall were all within valid physical ranges). Cleaning consisted of
-parsing the date column into a proper date type, sorting chronologically,
-and documenting two non-destructive quality notes: a small set of
-boundary mismatches between `Rainfall` and `RainToday` at exactly 1.0mm,
-and a large (35% of rows) cluster of identical `WindGustSpeed`/`WindGustDir`
-values that looks like an upstream imputation artifact. Full detail in
-`reports/final_report.md`.
+The dataset was checked for:
 
-## Exploratory Data Analysis
+* Missing values
+* Duplicate records
+* Invalid or physically impossible values
+* Date consistency
+* Rainfall/rain indicator consistency
+* Potential data-quality anomalies
 
-Covered temperature, humidity, wind, and rainfall distributions and
-trends; monthly/seasonal comparisons; a year-over-year temperature view;
-and scatter/correlation analysis between temperature, humidity, sunshine,
-pressure, wind, and rainfall. All charts are in `charts/`.
+No missing values, duplicate rows, or impossible readings were identified.
+
+Additional data-quality checks revealed a small number of rainfall/rain-indicator boundary mismatches and a large repeated-value pattern in wind-gust data, which was documented as a potential upstream data issue rather than modified manually.
+
+## Analysis
+
+The exploratory analysis covered:
+
+* Temperature distribution and trends
+* Humidity distribution and trends
+* Wind speed analysis
+* Rainfall distribution and trends
+* Monthly and seasonal comparisons
+* Year-over-year temperature patterns
+* Correlation analysis
+* Temperature vs. humidity relationships
+* Wind vs. rainfall relationships
+* Statistical anomaly detection using the IQR method
+
+All generated visualizations are available in the `charts/` directory.
 
 ## Key KPIs
 
-Average Temperature, Max/Min Temperature, Average Temperature Range,
-Average Humidity, Average/Max Wind Gust Speed, Total Rainfall, Average
-Rainfall, Number of Rainy Days, Number of Observations, Date Range. (See
-`reports/final_report.md` §13 for the full table with values and
-rationale.)
+The following KPIs were defined for monitoring weather conditions:
 
-## Dashboard
-
-A 4-page Power BI dashboard was specified — **Weather Overview**,
-**Temperature & Humidity**, **Rainfall & Wind**, and **Weather Anomalies /
-Trends** — each filterable by Year, Month, Season, and date range. A
-`.pbix` binary could not be generated in this text-based environment, so
-`dashboard/Dashboard_Specification.md` gives the exact pages, visuals, and
-filters, and `dashboard/DAX_Measures.md` gives every DAX measure needed,
-ready to paste into Power BI Desktop against `data/cleaned/weather_cleaned.csv`.
+| KPI                           | Purpose                               |
+| ----------------------------- | ------------------------------------- |
+| Average Temperature           | Overall temperature level             |
+| Maximum / Minimum Temperature | Temperature extremes                  |
+| Average Temperature Range     | Daily temperature variation           |
+| Average Humidity              | Overall humidity level                |
+| Average / Maximum Wind Gust   | Wind intensity                        |
+| Total Rainfall                | Overall precipitation                 |
+| Average Rainfall              | Average precipitation per observation |
+| Number of Rainy Days          | Rainfall frequency                    |
+| Number of Observations        | Dataset coverage                      |
+| Date Range                    | Analysis period                       |
 
 ## Key Insights
 
-- Average temperature 18.9°C; hottest day 45.8°C (2013-01-18), coldest
-  4.3°C (2010-06-30); January warmest month, July coldest.
-- Total rainfall 10,932 mm over the period; 26.0% of days were rainy;
-  wettest day 119.4 mm (2015-04-21); June wettest month, Winter wettest
-  season, Spring driest.
-- Windiest recorded gust 96 km/h (2014-06-28); West is the dominant gust
-  direction, though partly influenced by a likely data-imputation artifact.
-- 919 statistical anomaly flags identified via the IQR method, the
-  majority (603) from rainfall's naturally skewed distribution.
-- Location-based comparison could not be performed — no location data
-  exists in the source file.
+* Average temperature across the dataset was **18.9°C**.
+* The highest recorded temperature was **45.8°C**, while the lowest was **4.3°C**.
+* Total recorded rainfall was **10,932 mm**.
+* Approximately **26% of observations were rainy days**.
+* The highest daily rainfall was **119.4 mm**.
+* The maximum recorded wind gust was **96 km/h**.
+* **919 statistical anomaly flags** were identified using the IQR method, with rainfall accounting for most of them.
+* Location-based comparisons could not be performed because the dataset does not contain city or country information.
 
-Full list with all 14 insights: `reports/insights.md`.
+## Power BI Dashboard
+
+A four-page dashboard structure was designed:
+
+1. **Weather Overview**
+2. **Temperature & Humidity**
+3. **Rainfall & Wind**
+4. **Anomalies & Trends**
+
+The dashboard is designed to support filtering by:
+
+* Year
+* Month
+* Season
+* Date range
+
+The dashboard specifications and required DAX measures are available in the `dashboard/` directory.
 
 ## Technologies
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Power BI
-- DAX
-- Git/GitHub
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Power BI
+* DAX
+* Git & GitHub
 
 ## Project Structure
 
 ```text
-weather-data-analysis/
+Weather-Data-Analysis/
 │
 ├── data/
 │   ├── raw/
@@ -151,15 +162,12 @@ weather-data-analysis/
 
 ## Limitations
 
-- No City/Country/Region field — location-based analysis and dashboard
-  filters are not possible with this dataset.
-- 162 calendar days are missing from the date sequence (gaps in
-  collection).
-- 2017 is a partial year (through June only) and is not directly
-  comparable to full years in yearly aggregates.
-- A likely-imputed cluster in `WindGustSpeed`/`WindGustDir` (35% of rows)
-  limits confidence in wind-direction-specific conclusions.
-- A real `.pbix` file could not be produced in this environment; a full
-  build specification is provided instead.
+* The dataset contains no city, country, or regional information.
+* 162 calendar days are missing from the date sequence.
+* 2017 contains only partial-year data.
+* Repeated wind-gust values may indicate an upstream imputation issue.
+* A `.pbix` dashboard file was not included; instead, the dashboard structure and DAX measures are provided.
 
-See `reports/final_report.md` for complete details.
+## Conclusion
+
+This project demonstrates an end-to-end weather data analysis workflow, from raw data preparation and exploratory analysis to anomaly detection, KPI development, and Power BI dashboard planning.
