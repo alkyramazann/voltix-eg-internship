@@ -1,0 +1,205 @@
+{
+  "inspection": {
+    "n_rows": 3271,
+    "n_cols": 22,
+    "columns": [
+      "Date",
+      "MinTemp",
+      "MaxTemp",
+      "Rainfall",
+      "Evaporation",
+      "Sunshine",
+      "WindGustDir",
+      "WindGustSpeed",
+      "WindDir9am",
+      "WindDir3pm",
+      "WindSpeed9am",
+      "WindSpeed3pm",
+      "Humidity9am",
+      "Humidity3pm",
+      "Pressure9am",
+      "Pressure3pm",
+      "Cloud9am",
+      "Cloud3pm",
+      "Temp9am",
+      "Temp3pm",
+      "RainToday",
+      "RainTomorrow"
+    ],
+    "dtypes": {
+      "Date": "str",
+      "MinTemp": "float64",
+      "MaxTemp": "float64",
+      "Rainfall": "float64",
+      "Evaporation": "float64",
+      "Sunshine": "float64",
+      "WindGustDir": "str",
+      "WindGustSpeed": "int64",
+      "WindDir9am": "str",
+      "WindDir3pm": "str",
+      "WindSpeed9am": "int64",
+      "WindSpeed3pm": "int64",
+      "Humidity9am": "int64",
+      "Humidity3pm": "int64",
+      "Pressure9am": "float64",
+      "Pressure3pm": "float64",
+      "Cloud9am": "int64",
+      "Cloud3pm": "int64",
+      "Temp9am": "float64",
+      "Temp3pm": "float64",
+      "RainToday": "str",
+      "RainTomorrow": "str"
+    },
+    "missing_values": {
+      "Date": 0,
+      "MinTemp": 0,
+      "MaxTemp": 0,
+      "Rainfall": 0,
+      "Evaporation": 0,
+      "Sunshine": 0,
+      "WindGustDir": 0,
+      "WindGustSpeed": 0,
+      "WindDir9am": 0,
+      "WindDir3pm": 0,
+      "WindSpeed9am": 0,
+      "WindSpeed3pm": 0,
+      "Humidity9am": 0,
+      "Humidity3pm": 0,
+      "Pressure9am": 0,
+      "Pressure3pm": 0,
+      "Cloud9am": 0,
+      "Cloud3pm": 0,
+      "Temp9am": 0,
+      "Temp3pm": 0,
+      "RainToday": 0,
+      "RainTomorrow": 0
+    },
+    "duplicate_rows": 0
+  },
+  "cleaning": {
+    "unparseable_dates": 0,
+    "duplicate_rows_removed": 0,
+    "duplicate_dates": 0,
+    "missing_values_total": 0,
+    "validity_checks": {
+      "MinTemp_gt_MaxTemp": 0,
+      "Humidity_out_of_range": 0,
+      "Negative_Rainfall": 0,
+      "Negative_WindSpeed": 0,
+      "Cloud_out_of_0_9": 0,
+      "Sunshine_out_of_0_24": 0,
+      "RainToday_boundary_mismatch_at_1mm": 37
+    },
+    "invalid_wind_direction_codes": {
+      "WindGustDir": [],
+      "WindDir9am": [],
+      "WindDir3pm": []
+    },
+    "missing_calendar_days": 162,
+    "final_row_count": 3271
+  },
+  "summary_stats": {
+    "temperature": {
+      "avg_MaxTemp": 23.01,
+      "avg_MinTemp": 14.88,
+      "min_MinTemp": 4.3,
+      "max_MaxTemp": 45.8,
+      "avg_TempRange": 8.13
+    },
+    "humidity": {
+      "avg_Humidity9am": 68.24,
+      "avg_Humidity3pm": 54.7,
+      "min_Humidity": 10,
+      "max_Humidity": 100
+    },
+    "wind": {
+      "avg_WindGustSpeed": 41.48,
+      "max_WindGustSpeed": "96",
+      "avg_WindSpeed9am": 15.08,
+      "avg_WindSpeed3pm": 19.29
+    },
+    "rainfall": {
+      "total_Rainfall": 10932.2,
+      "avg_Rainfall": 3.34,
+      "max_Rainfall": 119.4,
+      "rainy_days": 849,
+      "rainy_day_pct": 26.0
+    }
+  },
+  "monthly_avg_temp": {
+    "January": 23.89,
+    "February": 23.53,
+    "March": 22.37,
+    "April": 19.43,
+    "May": 16.63,
+    "June": 14.46,
+    "July": 13.5,
+    "August": 14.57,
+    "September": 17.3,
+    "October": 19.16,
+    "November": 21.07,
+    "December": 22.21
+  },
+  "seasonal_avg_temp": {
+    "Summer": 23.25,
+    "Autumn": 19.48,
+    "Winter": 14.18,
+    "Spring": 19.17
+  },
+  "seasonal_total_rain": {
+    "Summer": 2554.8,
+    "Autumn": 3539.8,
+    "Winter": 3034.4,
+    "Spring": 1803.2
+  },
+  "yearly_avg_temp": {
+    "2008": 17.72,
+    "2009": 18.97,
+    "2010": 18.85,
+    "2011": 18.62,
+    "2012": 18.27,
+    "2013": 19.08,
+    "2014": 19.24,
+    "2015": 19.0,
+    "2016": 19.65,
+    "2017": 20.76
+  },
+  "yearly_total_rain": {
+    "2008": 1020.2,
+    "2009": 955.2,
+    "2010": 1098.4,
+    "2011": 1163.0,
+    "2012": 1105.0,
+    "2013": 1179.0,
+    "2014": 884.6,
+    "2015": 1338.2,
+    "2016": 1324.6,
+    "2017": 864.0
+  },
+  "kpis": {
+    "Average Temperature (C)": 18.94,
+    "Maximum Temperature Recorded (C)": 45.8,
+    "Minimum Temperature Recorded (C)": 4.3,
+    "Average Temperature Range (C)": 8.13,
+    "Average Humidity (%)": 61.47,
+    "Maximum Humidity (%)": 100,
+    "Average Wind Gust Speed (km/h)": 41.48,
+    "Maximum Wind Gust Speed (km/h)": "96",
+    "Total Rainfall (mm)": 10932.2,
+    "Average Daily Rainfall (mm)": 3.34,
+    "Number of Rainy Days (>1mm)": 849,
+    "Number of Observations": 3271,
+    "Date Range": "2008-02-01 to 2017-06-25",
+    "Number of Cities": "N/A (dataset has no City column)",
+    "Number of Countries": "N/A (dataset has no Country column)"
+  },
+  "n_anomalies": 919,
+  "correlation_highlights": {
+    "MaxTemp_vs_Humidity3pm": -0.151,
+    "MaxTemp_vs_Sunshine": 0.327,
+    "Rainfall_vs_Sunshine": -0.309,
+    "Rainfall_vs_Humidity3pm": 0.306,
+    "Pressure9am_vs_MaxTemp": -0.386,
+    "WindGustSpeed_vs_Rainfall": 0.15
+  }
+}

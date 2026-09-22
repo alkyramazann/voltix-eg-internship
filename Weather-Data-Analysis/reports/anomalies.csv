@@ -1,0 +1,920 @@
+Date,Variable,ObservedValue,NormalRange,Type
+2008-02-01,Rainfall,15.6,-2.1 to 3.5,Extreme rainfall
+2008-02-02,Rainfall,6.0,-2.1 to 3.5,Extreme rainfall
+2008-02-03,Rainfall,6.6,-2.1 to 3.5,Extreme rainfall
+2008-02-04,Rainfall,18.8,-2.1 to 3.5,Extreme rainfall
+2008-02-05,Rainfall,77.4,-2.1 to 3.5,Extreme rainfall
+2008-02-07,Rainfall,6.2,-2.1 to 3.5,Extreme rainfall
+2008-02-08,Rainfall,27.6,-2.1 to 3.5,Extreme rainfall
+2008-02-09,Rainfall,12.6,-2.1 to 3.5,Extreme rainfall
+2008-02-10,Rainfall,8.8,-2.1 to 3.5,Extreme rainfall
+2008-02-13,Rainfall,14.4,-2.1 to 3.5,Extreme rainfall
+2008-02-27,Rainfall,22.2,-2.1 to 3.5,Extreme rainfall
+2008-02-28,Rainfall,4.2,-2.1 to 3.5,Extreme rainfall
+2008-02-29,Rainfall,33.0,-2.1 to 3.5,Extreme rainfall
+2008-03-02,Rainfall,5.4,-2.1 to 3.5,Extreme rainfall
+2008-03-08,Rainfall,17.4,-2.1 to 3.5,Extreme rainfall
+2008-03-24,Rainfall,17.0,-2.1 to 3.5,Extreme rainfall
+2008-03-26,Rainfall,19.0,-2.1 to 3.5,Extreme rainfall
+2008-04-07,Rainfall,12.0,-2.1 to 3.5,Extreme rainfall
+2008-04-08,Rainfall,9.6,-2.1 to 3.5,Extreme rainfall
+2008-04-09,Rainfall,22.8,-2.1 to 3.5,Extreme rainfall
+2008-04-14,Rainfall,11.0,-2.1 to 3.5,Extreme rainfall
+2008-04-17,Rainfall,4.6,-2.1 to 3.5,Extreme rainfall
+2008-04-18,Rainfall,6.4,-2.1 to 3.5,Extreme rainfall
+2008-04-19,Rainfall,5.0,-2.1 to 3.5,Extreme rainfall
+2008-04-21,Rainfall,21.8,-2.1 to 3.5,Extreme rainfall
+2008-04-22,Rainfall,10.2,-2.1 to 3.5,Extreme rainfall
+2008-04-23,Rainfall,12.6,-2.1 to 3.5,Extreme rainfall
+2008-04-24,Rainfall,15.6,-2.1 to 3.5,Extreme rainfall
+2008-06-02,Rainfall,22.0,-2.1 to 3.5,Extreme rainfall
+2008-06-03,Rainfall,4.0,-2.1 to 3.5,Extreme rainfall
+2008-06-04,Rainfall,9.2,-2.1 to 3.5,Extreme rainfall
+2008-06-05,Rainfall,46.4,-2.1 to 3.5,Extreme rainfall
+2008-06-06,Rainfall,12.4,-2.1 to 3.5,Extreme rainfall
+2008-06-08,Rainfall,6.0,-2.1 to 3.5,Extreme rainfall
+2008-06-09,Rainfall,3.6,-2.1 to 3.5,Extreme rainfall
+2008-06-12,Rainfall,5.4,-2.1 to 3.5,Extreme rainfall
+2008-06-16,Rainfall,7.2,-2.1 to 3.5,Extreme rainfall
+2008-06-20,Rainfall,3.6,-2.1 to 3.5,Extreme rainfall
+2008-07-05,Rainfall,14.2,-2.1 to 3.5,Extreme rainfall
+2008-07-24,Rainfall,7.0,-2.1 to 3.5,Extreme rainfall
+2008-07-25,Rainfall,8.8,-2.1 to 3.5,Extreme rainfall
+2008-07-26,Rainfall,16.2,-2.1 to 3.5,Extreme rainfall
+2008-07-28,Rainfall,3.8,-2.1 to 3.5,Extreme rainfall
+2008-07-29,Rainfall,33.2,-2.1 to 3.5,Extreme rainfall
+2008-08-08,Rainfall,4.6,-2.1 to 3.5,Extreme rainfall
+2008-08-23,Rainfall,20.8,-2.1 to 3.5,Extreme rainfall
+2008-08-31,Rainfall,12.0,-2.1 to 3.5,Extreme rainfall
+2008-09-06,Rainfall,62.2,-2.1 to 3.5,Extreme rainfall
+2008-09-07,Rainfall,21.6,-2.1 to 3.5,Extreme rainfall
+2008-09-14,Rainfall,3.6,-2.1 to 3.5,Extreme rainfall
+2008-09-15,Rainfall,4.0,-2.1 to 3.5,Extreme rainfall
+2008-10-04,Rainfall,9.6,-2.1 to 3.5,Extreme rainfall
+2008-10-15,Rainfall,9.0,-2.1 to 3.5,Extreme rainfall
+2008-10-22,Rainfall,12.6,-2.1 to 3.5,Extreme rainfall
+2008-10-23,Rainfall,11.4,-2.1 to 3.5,Extreme rainfall
+2008-10-29,Rainfall,6.2,-2.1 to 3.5,Extreme rainfall
+2008-10-30,Rainfall,7.6,-2.1 to 3.5,Extreme rainfall
+2008-11-15,Rainfall,6.6,-2.1 to 3.5,Extreme rainfall
+2008-11-19,Rainfall,6.2,-2.1 to 3.5,Extreme rainfall
+2008-11-20,Rainfall,29.4,-2.1 to 3.5,Extreme rainfall
+2008-11-29,Rainfall,10.8,-2.1 to 3.5,Extreme rainfall
+2008-11-30,Rainfall,11.2,-2.1 to 3.5,Extreme rainfall
+2008-12-08,Rainfall,6.8,-2.1 to 3.5,Extreme rainfall
+2008-12-12,Rainfall,3.6,-2.1 to 3.5,Extreme rainfall
+2008-12-13,Rainfall,28.2,-2.1 to 3.5,Extreme rainfall
+2008-12-28,Rainfall,7.0,-2.1 to 3.5,Extreme rainfall
+2009-01-24,MaxTemp,40.9,10.0 to 35.6,Unusually high/low max temperature
+2009-01-27,Rainfall,14.2,-2.1 to 3.5,Extreme rainfall
+2009-01-28,Rainfall,4.4,-2.1 to 3.5,Extreme rainfall
+2009-02-11,Rainfall,5.6,-2.1 to 3.5,Extreme rainfall
+2009-02-13,Rainfall,23.2,-2.1 to 3.5,Extreme rainfall
+2009-02-14,Rainfall,19.6,-2.1 to 3.5,Extreme rainfall
+2009-02-15,Rainfall,25.6,-2.1 to 3.5,Extreme rainfall
+2009-02-16,Rainfall,16.4,-2.1 to 3.5,Extreme rainfall
+2009-02-17,Rainfall,3.8,-2.1 to 3.5,Extreme rainfall
+2009-02-18,Rainfall,24.6,-2.1 to 3.5,Extreme rainfall
+2009-03-09,Rainfall,36.8,-2.1 to 3.5,Extreme rainfall
+2009-03-15,Rainfall,17.0,-2.1 to 3.5,Extreme rainfall
+2009-04-01,Rainfall,46.0,-2.1 to 3.5,Extreme rainfall
+2009-04-02,Rainfall,11.4,-2.1 to 3.5,Extreme rainfall
+2009-04-03,Rainfall,5.0,-2.1 to 3.5,Extreme rainfall
+2009-04-14,Rainfall,48.0,-2.1 to 3.5,Extreme rainfall
+2009-04-19,Rainfall,13.4,-2.1 to 3.5,Extreme rainfall
+2009-04-20,Rainfall,9.0,-2.1 to 3.5,Extreme rainfall
+2009-04-22,Rainfall,6.8,-2.1 to 3.5,Extreme rainfall
+2009-04-30,Rainfall,6.2,-2.1 to 3.5,Extreme rainfall
+2009-05-01,Rainfall,5.6,-2.1 to 3.5,Extreme rainfall
+2009-05-03,Rainfall,13.0,-2.1 to 3.5,Extreme rainfall
+2009-05-20,Rainfall,20.2,-2.1 to 3.5,Extreme rainfall
+2009-05-21,Rainfall,27.2,-2.1 to 3.5,Extreme rainfall
+2009-05-22,Rainfall,4.6,-2.1 to 3.5,Extreme rainfall
+2009-05-23,Rainfall,17.6,-2.1 to 3.5,Extreme rainfall
+2009-05-28,Rainfall,3.6,-2.1 to 3.5,Extreme rainfall
+2009-05-30,Rainfall,15.0,-2.1 to 3.5,Extreme rainfall
+2009-05-31,Rainfall,10.6,-2.1 to 3.5,Extreme rainfall
+2009-06-03,Rainfall,8.0,-2.1 to 3.5,Extreme rainfall
+2009-06-04,Rainfall,10.4,-2.1 to 3.5,Extreme rainfall
+2009-06-17,Rainfall,29.8,-2.1 to 3.5,Extreme rainfall
+2009-06-18,Rainfall,7.8,-2.1 to 3.5,Extreme rainfall
+2009-06-19,Rainfall,23.6,-2.1 to 3.5,Extreme rainfall
+2009-06-21,Rainfall,31.8,-2.1 to 3.5,Extreme rainfall
+2009-06-22,Rainfall,12.2,-2.1 to 3.5,Extreme rainfall
+2009-07-08,Rainfall,13.8,-2.1 to 3.5,Extreme rainfall
+2009-07-09,Rainfall,6.2,-2.1 to 3.5,Extreme rainfall
+2009-07-10,Rainfall,8.8,-2.1 to 3.5,Extreme rainfall
+2009-07-17,Rainfall,7.0,-2.1 to 3.5,Extreme rainfall
+2009-07-23,Rainfall,3.6,-2.1 to 3.5,Extreme rainfall
+2009-07-27,Rainfall,12.2,-2.1 to 3.5,Extreme rainfall
+2009-08-12,Rainfall,4.2,-2.1 to 3.5,Extreme rainfall
+2009-09-04,Rainfall,6.0,-2.1 to 3.5,Extreme rainfall
+2009-09-08,Rainfall,5.4,-2.1 to 3.5,Extreme rainfall
+2009-09-23,Rainfall,4.4,-2.1 to 3.5,Extreme rainfall
+2009-10-01,Humidity3pm,10.0,14.0 to 94.0,Unusually high/low humidity
+2009-10-03,Rainfall,12.6,-2.1 to 3.5,Extreme rainfall
+2009-10-04,Rainfall,38.2,-2.1 to 3.5,Extreme rainfall
+2009-10-06,Rainfall,6.6,-2.1 to 3.5,Extreme rainfall
+2009-10-07,Rainfall,7.0,-2.1 to 3.5,Extreme rainfall
+2009-10-10,Rainfall,24.4,-2.1 to 3.5,Extreme rainfall
+2009-10-18,Rainfall,7.0,-2.1 to 3.5,Extreme rainfall
+2009-10-26,Rainfall,73.2,-2.1 to 3.5,Extreme rainfall
+2009-11-03,MaxTemp,36.9,10.0 to 35.6,Unusually high/low max temperature
+2009-11-07,Rainfall,4.2,-2.1 to 3.5,Extreme rainfall
+2009-11-13,Rainfall,4.0,-2.1 to 3.5,Extreme rainfall
+2009-11-22,MaxTemp,40.4,10.0 to 35.6,Unusually high/low max temperature
+2009-12-01,Rainfall,4.4,-2.1 to 3.5,Extreme rainfall
+2009-12-02,Rainfall,10.2,-2.1 to 3.5,Extreme rainfall
+2009-12-18,Rainfall,5.4,-2.1 to 3.5,Extreme rainfall
+2009-12-19,Rainfall,8.0,-2.1 to 3.5,Extreme rainfall
+2009-12-26,Rainfall,12.0,-2.1 to 3.5,Extreme rainfall
+2009-12-27,Rainfall,4.8,-2.1 to 3.5,Extreme rainfall
+2009-12-28,Rainfall,16.0,-2.1 to 3.5,Extreme rainfall
+2009-12-29,Rainfall,5.4,-2.1 to 3.5,Extreme rainfall
+2010-01-03,Rainfall,8.6,-2.1 to 3.5,Extreme rainfall
+2010-01-14,Rainfall,13.0,-2.1 to 3.5,Extreme rainfall
+2010-01-23,MaxTemp,41.3,10.0 to 35.6,Unusually high/low max temperature
+2010-01-24,Rainfall,6.2,-2.1 to 3.5,Extreme rainfall
+2010-02-03,Rainfall,23.4,-2.1 to 3.5,Extreme rainfall
+2010-02-05,Rainfall,4.0,-2.1 to 3.5,Extreme rainfall
+2010-02-06,Humidity3pm,95.0,14.0 to 94.0,Unusually high/low humidity
+2010-02-06,Rainfall,31.2,-2.1 to 3.5,Extreme rainfall
+2010-02-07,Rainfall,77.4,-2.1 to 3.5,Extreme rainfall
+2010-02-12,MaxTemp,37.8,10.0 to 35.6,Unusually high/low max temperature
+2010-02-13,Rainfall,70.0,-2.1 to 3.5,Extreme rainfall
+2010-02-14,Rainfall,10.0,-2.1 to 3.5,Extreme rainfall
+2010-02-15,Rainfall,15.2,-2.1 to 3.5,Extreme rainfall
+2010-03-01,Rainfall,4.2,-2.1 to 3.5,Extreme rainfall
+2010-03-02,Rainfall,9.0,-2.1 to 3.5,Extreme rainfall
+2010-03-06,Rainfall,14.0,-2.1 to 3.5,Extreme rainfall
+2010-03-14,Rainfall,5.6,-2.1 to 3.5,Extreme rainfall
+2010-03-30,Rainfall,4.0,-2.1 to 3.5,Extreme rainfall
+2010-03-31,Rainfall,14.0,-2.1 to 3.5,Extreme rainfall
+2010-04-04,Rainfall,6.8,-2.1 to 3.5,Extreme rainfall
+2010-04-07,Rainfall,3.8,-2.1 to 3.5,Extreme rainfall
+2010-04-09,Rainfall,4.4,-2.1 to 3.5,Extreme rainfall
+2010-04-25,Rainfall,8.8,-2.1 to 3.5,Extreme rainfall
+2010-05-18,Rainfall,13.8,-2.1 to 3.5,Extreme rainfall
+2010-05-19,Rainfall,47.8,-2.1 to 3.5,Extreme rainfall
+2010-05-22,Rainfall,17.2,-2.1 to 3.5,Extreme rainfall
+2010-05-23,Rainfall,14.2,-2.1 to 3.5,Extreme rainfall
+2010-05-24,Rainfall,5.6,-2.1 to 3.5,Extreme rainfall
+2010-05-26,Rainfall,9.0,-2.1 to 3.5,Extreme rainfall
+2010-05-27,Rainfall,33.6,-2.1 to 3.5,Extreme rainfall
+2010-05-31,Rainfall,12.8,-2.1 to 3.5,Extreme rainfall
+2010-06-01,Rainfall,12.4,-2.1 to 3.5,Extreme rainfall
+2010-06-03,Rainfall,6.0,-2.1 to 3.5,Extreme rainfall
+2010-06-04,Rainfall,26.4,-2.1 to 3.5,Extreme rainfall
+2010-06-05,Rainfall,61.4,-2.1 to 3.5,Extreme rainfall
+2010-06-07,Rainfall,4.2,-2.1 to 3.5,Extreme rainfall
+2010-06-21,Rainfall,8.2,-2.1 to 3.5,Extreme rainfall
+2010-06-23,Rainfall,4.0,-2.1 to 3.5,Extreme rainfall
+2010-06-24,Rainfall,18.8,-2.1 to 3.5,Extreme rainfall
+2010-07-06,Rainfall,4.2,-2.1 to 3.5,Extreme rainfall
+2010-07-09,Rainfall,32.0,-2.1 to 3.5,Extreme rainfall
+2010-07-10,Rainfall,4.6,-2.1 to 3.5,Extreme rainfall
+2010-07-21,Rainfall,6.6,-2.1 to 3.5,Extreme rainfall
+2010-07-24,Rainfall,4.6,-2.1 to 3.5,Extreme rainfall
+2010-07-26,Rainfall,16.0,-2.1 to 3.5,Extreme rainfall
+2010-07-29,Rainfall,24.2,-2.1 to 3.5,Extreme rainfall
+2010-07-31,Rainfall,6.6,-2.1 to 3.5,Extreme rainfall
+2010-08-03,Rainfall,16.4,-2.1 to 3.5,Extreme rainfall
+2010-08-11,Rainfall,4.6,-2.1 to 3.5,Extreme rainfall
+2010-09-04,Rainfall,7.4,-2.1 to 3.5,Extreme rainfall
+2010-10-03,Rainfall,14.2,-2.1 to 3.5,Extreme rainfall
+2010-10-04,Rainfall,12.0,-2.1 to 3.5,Extreme rainfall
+2010-10-15,WindGustSpeed,76.0,21.5 to 57.5,Unusually high wind gust
+2010-10-16,WindGustSpeed,85.0,21.5 to 57.5,Unusually high wind gust
+2010-10-24,Rainfall,30.6,-2.1 to 3.5,Extreme rainfall
+2010-11-01,Rainfall,5.2,-2.1 to 3.5,Extreme rainfall
+2010-11-02,Rainfall,32.6,-2.1 to 3.5,Extreme rainfall
+2010-11-05,Rainfall,8.4,-2.1 to 3.5,Extreme rainfall
+2010-11-06,Rainfall,26.0,-2.1 to 3.5,Extreme rainfall
+2010-11-07,Rainfall,8.8,-2.1 to 3.5,Extreme rainfall
+2010-11-08,WindGustSpeed,74.0,21.5 to 57.5,Unusually high wind gust
+2010-11-09,Rainfall,5.6,-2.1 to 3.5,Extreme rainfall
+2010-11-11,Rainfall,8.6,-2.1 to 3.5,Extreme rainfall
+2010-11-15,Humidity3pm,95.0,14.0 to 94.0,Unusually high/low humidity
+2010-11-16,Rainfall,21.0,-2.1 to 3.5,Extreme rainfall
+2010-11-19,WindGustSpeed,67.0,21.5 to 57.5,Unusually high wind gust
+2010-11-27,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2010-11-29,Rainfall,5.8,-2.1 to 3.5,Extreme rainfall
+2010-11-30,Rainfall,5.6,-2.1 to 3.5,Extreme rainfall
+2010-12-01,Rainfall,27.6,-2.1 to 3.5,Extreme rainfall
+2010-12-02,Rainfall,21.0,-2.1 to 3.5,Extreme rainfall
+2010-12-08,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2010-12-17,Rainfall,7.6,-2.1 to 3.5,Extreme rainfall
+2010-12-19,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2010-12-20,Rainfall,4.8,-2.1 to 3.5,Extreme rainfall
+2010-12-20,WindGustSpeed,72.0,21.5 to 57.5,Unusually high wind gust
+2010-12-23,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2010-12-26,WindGustSpeed,76.0,21.5 to 57.5,Unusually high wind gust
+2010-12-27,Rainfall,17.0,-2.1 to 3.5,Extreme rainfall
+2011-01-03,Rainfall,5.6,-2.1 to 3.5,Extreme rainfall
+2011-01-07,Rainfall,7.6,-2.1 to 3.5,Extreme rainfall
+2011-01-08,Rainfall,6.6,-2.1 to 3.5,Extreme rainfall
+2011-01-09,Rainfall,9.4,-2.1 to 3.5,Extreme rainfall
+2011-01-10,Rainfall,5.4,-2.1 to 3.5,Extreme rainfall
+2011-01-19,Rainfall,7.2,-2.1 to 3.5,Extreme rainfall
+2011-01-21,Rainfall,5.6,-2.1 to 3.5,Extreme rainfall
+2011-01-24,WindGustSpeed,69.0,21.5 to 57.5,Unusually high wind gust
+2011-02-03,WindGustSpeed,70.0,21.5 to 57.5,Unusually high wind gust
+2011-02-03,MaxTemp,37.5,10.0 to 35.6,Unusually high/low max temperature
+2011-02-05,MaxTemp,41.5,10.0 to 35.6,Unusually high/low max temperature
+2011-02-06,MaxTemp,35.6,10.0 to 35.6,Unusually high/low max temperature
+2011-02-06,WindGustSpeed,67.0,21.5 to 57.5,Unusually high wind gust
+2011-02-13,Rainfall,9.6,-2.1 to 3.5,Extreme rainfall
+2011-02-21,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2011-03-14,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2011-03-17,Rainfall,5.6,-2.1 to 3.5,Extreme rainfall
+2011-03-19,Rainfall,10.4,-2.1 to 3.5,Extreme rainfall
+2011-03-20,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2011-03-20,Rainfall,99.4,-2.1 to 3.5,Extreme rainfall
+2011-03-21,Rainfall,20.8,-2.1 to 3.5,Extreme rainfall
+2011-03-22,Rainfall,27.8,-2.1 to 3.5,Extreme rainfall
+2011-03-27,Rainfall,5.0,-2.1 to 3.5,Extreme rainfall
+2011-03-28,Rainfall,5.8,-2.1 to 3.5,Extreme rainfall
+2011-03-29,Rainfall,10.8,-2.1 to 3.5,Extreme rainfall
+2011-05-01,Rainfall,3.6,-2.1 to 3.5,Extreme rainfall
+2011-05-10,Rainfall,4.4,-2.1 to 3.5,Extreme rainfall
+2011-05-20,WindGustSpeed,20.0,21.5 to 57.5,Unusually high wind gust
+2011-05-25,WindGustSpeed,69.0,21.5 to 57.5,Unusually high wind gust
+2011-05-25,Rainfall,12.0,-2.1 to 3.5,Extreme rainfall
+2011-05-26,Rainfall,9.4,-2.1 to 3.5,Extreme rainfall
+2011-05-30,Rainfall,36.0,-2.1 to 3.5,Extreme rainfall
+2011-05-30,WindGustSpeed,94.0,21.5 to 57.5,Unusually high wind gust
+2011-05-31,WindGustSpeed,70.0,21.5 to 57.5,Unusually high wind gust
+2011-05-31,Rainfall,65.2,-2.1 to 3.5,Extreme rainfall
+2011-06-01,Rainfall,4.6,-2.1 to 3.5,Extreme rainfall
+2011-06-08,WindGustSpeed,67.0,21.5 to 57.5,Unusually high wind gust
+2011-06-11,Rainfall,7.8,-2.1 to 3.5,Extreme rainfall
+2011-06-12,Rainfall,18.2,-2.1 to 3.5,Extreme rainfall
+2011-06-13,Rainfall,23.4,-2.1 to 3.5,Extreme rainfall
+2011-06-14,WindGustSpeed,67.0,21.5 to 57.5,Unusually high wind gust
+2011-06-14,Rainfall,10.4,-2.1 to 3.5,Extreme rainfall
+2011-06-15,Rainfall,13.8,-2.1 to 3.5,Extreme rainfall
+2011-06-15,WindGustSpeed,69.0,21.5 to 57.5,Unusually high wind gust
+2011-06-16,Rainfall,4.2,-2.1 to 3.5,Extreme rainfall
+2011-06-17,Rainfall,4.2,-2.1 to 3.5,Extreme rainfall
+2011-06-17,WindGustSpeed,70.0,21.5 to 57.5,Unusually high wind gust
+2011-06-21,WindGustSpeed,78.0,21.5 to 57.5,Unusually high wind gust
+2011-07-05,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2011-07-07,WindGustSpeed,70.0,21.5 to 57.5,Unusually high wind gust
+2011-07-10,WindGustSpeed,80.0,21.5 to 57.5,Unusually high wind gust
+2011-07-16,Rainfall,9.0,-2.1 to 3.5,Extreme rainfall
+2011-07-17,WindGustSpeed,17.0,21.5 to 57.5,Unusually high wind gust
+2011-07-20,Rainfall,76.8,-2.1 to 3.5,Extreme rainfall
+2011-07-20,WindGustSpeed,70.0,21.5 to 57.5,Unusually high wind gust
+2011-07-21,Rainfall,39.2,-2.1 to 3.5,Extreme rainfall
+2011-07-22,Rainfall,88.2,-2.1 to 3.5,Extreme rainfall
+2011-07-22,Humidity3pm,95.0,14.0 to 94.0,Unusually high/low humidity
+2011-07-23,Rainfall,57.4,-2.1 to 3.5,Extreme rainfall
+2011-08-08,Rainfall,4.4,-2.1 to 3.5,Extreme rainfall
+2011-08-12,Rainfall,13.0,-2.1 to 3.5,Extreme rainfall
+2011-08-18,Rainfall,5.6,-2.1 to 3.5,Extreme rainfall
+2011-08-19,WindGustSpeed,78.0,21.5 to 57.5,Unusually high wind gust
+2011-08-20,Rainfall,20.2,-2.1 to 3.5,Extreme rainfall
+2011-09-09,Rainfall,4.4,-2.1 to 3.5,Extreme rainfall
+2011-09-14,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2011-09-18,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2011-09-20,WindGustSpeed,78.0,21.5 to 57.5,Unusually high wind gust
+2011-09-23,WindGustSpeed,70.0,21.5 to 57.5,Unusually high wind gust
+2011-09-25,Rainfall,23.8,-2.1 to 3.5,Extreme rainfall
+2011-09-25,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2011-09-26,Rainfall,30.0,-2.1 to 3.5,Extreme rainfall
+2011-09-29,WindGustSpeed,72.0,21.5 to 57.5,Unusually high wind gust
+2011-09-29,Rainfall,7.8,-2.1 to 3.5,Extreme rainfall
+2011-09-30,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2011-10-02,WindGustSpeed,67.0,21.5 to 57.5,Unusually high wind gust
+2011-10-02,Rainfall,9.8,-2.1 to 3.5,Extreme rainfall
+2011-10-03,Rainfall,4.6,-2.1 to 3.5,Extreme rainfall
+2011-10-15,Rainfall,7.2,-2.1 to 3.5,Extreme rainfall
+2011-10-25,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2011-10-30,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2011-10-30,Humidity3pm,99.0,14.0 to 94.0,Unusually high/low humidity
+2011-11-03,Rainfall,11.4,-2.1 to 3.5,Extreme rainfall
+2011-11-04,Rainfall,3.8,-2.1 to 3.5,Extreme rainfall
+2011-11-08,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2011-11-09,Rainfall,19.8,-2.1 to 3.5,Extreme rainfall
+2011-11-16,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2011-11-17,Rainfall,12.8,-2.1 to 3.5,Extreme rainfall
+2011-11-20,WindGustSpeed,74.0,21.5 to 57.5,Unusually high wind gust
+2011-11-22,Rainfall,4.8,-2.1 to 3.5,Extreme rainfall
+2011-11-23,Rainfall,38.8,-2.1 to 3.5,Extreme rainfall
+2011-11-24,Rainfall,14.8,-2.1 to 3.5,Extreme rainfall
+2011-11-25,Rainfall,7.6,-2.1 to 3.5,Extreme rainfall
+2011-11-26,Rainfall,22.0,-2.1 to 3.5,Extreme rainfall
+2011-11-26,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2011-11-27,Rainfall,6.8,-2.1 to 3.5,Extreme rainfall
+2011-11-29,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2011-12-04,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2011-12-05,Rainfall,4.8,-2.1 to 3.5,Extreme rainfall
+2011-12-06,Rainfall,5.4,-2.1 to 3.5,Extreme rainfall
+2011-12-08,Rainfall,23.6,-2.1 to 3.5,Extreme rainfall
+2011-12-12,Rainfall,12.6,-2.1 to 3.5,Extreme rainfall
+2011-12-13,Rainfall,4.2,-2.1 to 3.5,Extreme rainfall
+2011-12-20,Rainfall,14.8,-2.1 to 3.5,Extreme rainfall
+2011-12-22,WindGustSpeed,20.0,21.5 to 57.5,Unusually high wind gust
+2011-12-23,Rainfall,5.2,-2.1 to 3.5,Extreme rainfall
+2011-12-26,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2012-01-04,WindGustSpeed,67.0,21.5 to 57.5,Unusually high wind gust
+2012-01-09,Rainfall,31.6,-2.1 to 3.5,Extreme rainfall
+2012-01-11,WindGustSpeed,70.0,21.5 to 57.5,Unusually high wind gust
+2012-01-15,Rainfall,29.0,-2.1 to 3.5,Extreme rainfall
+2012-01-16,Rainfall,18.6,-2.1 to 3.5,Extreme rainfall
+2012-01-17,Rainfall,6.0,-2.1 to 3.5,Extreme rainfall
+2012-01-22,Rainfall,12.0,-2.1 to 3.5,Extreme rainfall
+2012-01-25,Rainfall,7.2,-2.1 to 3.5,Extreme rainfall
+2012-01-26,Rainfall,29.6,-2.1 to 3.5,Extreme rainfall
+2012-02-01,Rainfall,8.8,-2.1 to 3.5,Extreme rainfall
+2012-02-02,Rainfall,5.4,-2.1 to 3.5,Extreme rainfall
+2012-02-03,Rainfall,49.8,-2.1 to 3.5,Extreme rainfall
+2012-02-04,Rainfall,6.0,-2.1 to 3.5,Extreme rainfall
+2012-02-06,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2012-02-10,Rainfall,3.8,-2.1 to 3.5,Extreme rainfall
+2012-02-20,Rainfall,15.6,-2.1 to 3.5,Extreme rainfall
+2012-02-21,Rainfall,6.2,-2.1 to 3.5,Extreme rainfall
+2012-03-01,WindGustSpeed,67.0,21.5 to 57.5,Unusually high wind gust
+2012-03-01,Rainfall,27.6,-2.1 to 3.5,Extreme rainfall
+2012-03-02,Rainfall,16.0,-2.1 to 3.5,Extreme rainfall
+2012-03-02,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2012-03-03,Rainfall,16.8,-2.1 to 3.5,Extreme rainfall
+2012-03-05,Rainfall,14.8,-2.1 to 3.5,Extreme rainfall
+2012-03-08,Rainfall,109.4,-2.1 to 3.5,Extreme rainfall
+2012-03-09,Rainfall,18.0,-2.1 to 3.5,Extreme rainfall
+2012-03-17,Rainfall,41.8,-2.1 to 3.5,Extreme rainfall
+2012-03-19,Rainfall,12.0,-2.1 to 3.5,Extreme rainfall
+2012-03-22,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2012-03-29,Rainfall,6.2,-2.1 to 3.5,Extreme rainfall
+2012-04-02,WindGustSpeed,20.0,21.5 to 57.5,Unusually high wind gust
+2012-04-09,Rainfall,6.4,-2.1 to 3.5,Extreme rainfall
+2012-04-09,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2012-04-10,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2012-04-12,Rainfall,7.2,-2.1 to 3.5,Extreme rainfall
+2012-04-17,Rainfall,23.6,-2.1 to 3.5,Extreme rainfall
+2012-04-18,Rainfall,48.8,-2.1 to 3.5,Extreme rainfall
+2012-04-19,Rainfall,56.0,-2.1 to 3.5,Extreme rainfall
+2012-04-24,WindGustSpeed,74.0,21.5 to 57.5,Unusually high wind gust
+2012-04-25,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2012-05-13,WindGustSpeed,70.0,21.5 to 57.5,Unusually high wind gust
+2012-05-25,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2012-05-25,Rainfall,13.8,-2.1 to 3.5,Extreme rainfall
+2012-05-26,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2012-05-29,Rainfall,21.4,-2.1 to 3.5,Extreme rainfall
+2012-06-03,Rainfall,27.4,-2.1 to 3.5,Extreme rainfall
+2012-06-04,Rainfall,11.2,-2.1 to 3.5,Extreme rainfall
+2012-06-05,WindGustSpeed,76.0,21.5 to 57.5,Unusually high wind gust
+2012-06-06,WindGustSpeed,72.0,21.5 to 57.5,Unusually high wind gust
+2012-06-06,Rainfall,19.2,-2.1 to 3.5,Extreme rainfall
+2012-06-07,Rainfall,6.8,-2.1 to 3.5,Extreme rainfall
+2012-06-11,Rainfall,76.4,-2.1 to 3.5,Extreme rainfall
+2012-06-11,Humidity3pm,96.0,14.0 to 94.0,Unusually high/low humidity
+2012-06-12,Rainfall,49.4,-2.1 to 3.5,Extreme rainfall
+2012-06-13,Rainfall,8.6,-2.1 to 3.5,Extreme rainfall
+2012-06-14,Rainfall,13.8,-2.1 to 3.5,Extreme rainfall
+2012-06-17,Rainfall,8.4,-2.1 to 3.5,Extreme rainfall
+2012-06-22,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2012-06-26,Rainfall,8.8,-2.1 to 3.5,Extreme rainfall
+2012-06-27,Rainfall,9.4,-2.1 to 3.5,Extreme rainfall
+2012-07-05,Rainfall,4.0,-2.1 to 3.5,Extreme rainfall
+2012-07-06,Rainfall,19.0,-2.1 to 3.5,Extreme rainfall
+2012-07-11,Rainfall,5.4,-2.1 to 3.5,Extreme rainfall
+2012-07-21,Rainfall,5.0,-2.1 to 3.5,Extreme rainfall
+2012-07-24,Rainfall,6.8,-2.1 to 3.5,Extreme rainfall
+2012-07-25,Rainfall,4.4,-2.1 to 3.5,Extreme rainfall
+2012-07-31,Rainfall,4.4,-2.1 to 3.5,Extreme rainfall
+2012-08-09,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2012-08-10,WindGustSpeed,93.0,21.5 to 57.5,Unusually high wind gust
+2012-08-17,WindGustSpeed,76.0,21.5 to 57.5,Unusually high wind gust
+2012-08-18,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2012-08-23,WindGustSpeed,91.0,21.5 to 57.5,Unusually high wind gust
+2012-08-24,Rainfall,10.2,-2.1 to 3.5,Extreme rainfall
+2012-08-24,WindGustSpeed,67.0,21.5 to 57.5,Unusually high wind gust
+2012-08-31,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2012-09-01,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2012-09-05,Humidity3pm,13.0,14.0 to 94.0,Unusually high/low humidity
+2012-09-06,Humidity3pm,10.0,14.0 to 94.0,Unusually high/low humidity
+2012-09-07,WindGustSpeed,72.0,21.5 to 57.5,Unusually high wind gust
+2012-09-08,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2012-09-13,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2012-09-14,Rainfall,3.8,-2.1 to 3.5,Extreme rainfall
+2012-09-19,Rainfall,3.6,-2.1 to 3.5,Extreme rainfall
+2012-09-28,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2012-10-11,Rainfall,9.8,-2.1 to 3.5,Extreme rainfall
+2012-10-12,WindGustSpeed,74.0,21.5 to 57.5,Unusually high wind gust
+2012-10-13,Rainfall,4.4,-2.1 to 3.5,Extreme rainfall
+2012-10-22,WindGustSpeed,80.0,21.5 to 57.5,Unusually high wind gust
+2012-10-23,Rainfall,7.4,-2.1 to 3.5,Extreme rainfall
+2012-11-09,Rainfall,9.2,-2.1 to 3.5,Extreme rainfall
+2012-11-10,Rainfall,11.4,-2.1 to 3.5,Extreme rainfall
+2012-11-17,Rainfall,10.4,-2.1 to 3.5,Extreme rainfall
+2012-11-18,WindGustSpeed,70.0,21.5 to 57.5,Unusually high wind gust
+2012-11-22,WindGustSpeed,72.0,21.5 to 57.5,Unusually high wind gust
+2012-11-27,Rainfall,3.6,-2.1 to 3.5,Extreme rainfall
+2012-11-28,Rainfall,10.2,-2.1 to 3.5,Extreme rainfall
+2013-01-08,WindGustSpeed,69.0,21.5 to 57.5,Unusually high wind gust
+2013-01-08,MaxTemp,42.3,10.0 to 35.6,Unusually high/low max temperature
+2013-01-14,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2013-01-14,Rainfall,8.6,-2.1 to 3.5,Extreme rainfall
+2013-01-18,WindGustSpeed,78.0,21.5 to 57.5,Unusually high wind gust
+2013-01-18,MaxTemp,45.8,10.0 to 35.6,Unusually high/low max temperature
+2013-01-27,Rainfall,16.8,-2.1 to 3.5,Extreme rainfall
+2013-01-28,Rainfall,15.8,-2.1 to 3.5,Extreme rainfall
+2013-01-28,WindGustSpeed,69.0,21.5 to 57.5,Unusually high wind gust
+2013-01-29,Rainfall,95.2,-2.1 to 3.5,Extreme rainfall
+2013-01-29,WindGustSpeed,70.0,21.5 to 57.5,Unusually high wind gust
+2013-03-01,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2013-03-01,Rainfall,31.8,-2.1 to 3.5,Extreme rainfall
+2013-03-02,Rainfall,15.2,-2.1 to 3.5,Extreme rainfall
+2013-03-03,Rainfall,7.4,-2.1 to 3.5,Extreme rainfall
+2013-03-04,Rainfall,4.4,-2.1 to 3.5,Extreme rainfall
+2013-03-17,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2013-03-22,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2013-04-03,Rainfall,27.4,-2.1 to 3.5,Extreme rainfall
+2013-04-04,Rainfall,61.4,-2.1 to 3.5,Extreme rainfall
+2013-04-05,Rainfall,18.4,-2.1 to 3.5,Extreme rainfall
+2013-04-07,Rainfall,3.8,-2.1 to 3.5,Extreme rainfall
+2013-04-09,Rainfall,5.2,-2.1 to 3.5,Extreme rainfall
+2013-04-16,Rainfall,7.0,-2.1 to 3.5,Extreme rainfall
+2013-04-19,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2013-04-20,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2013-04-20,Rainfall,33.6,-2.1 to 3.5,Extreme rainfall
+2013-04-21,Rainfall,32.8,-2.1 to 3.5,Extreme rainfall
+2013-05-23,Rainfall,27.2,-2.1 to 3.5,Extreme rainfall
+2013-05-24,Rainfall,30.6,-2.1 to 3.5,Extreme rainfall
+2013-05-25,Rainfall,20.0,-2.1 to 3.5,Extreme rainfall
+2013-05-28,Rainfall,28.6,-2.1 to 3.5,Extreme rainfall
+2013-05-29,WindGustSpeed,20.0,21.5 to 57.5,Unusually high wind gust
+2013-06-02,Rainfall,14.8,-2.1 to 3.5,Extreme rainfall
+2013-06-02,WindGustSpeed,81.0,21.5 to 57.5,Unusually high wind gust
+2013-06-03,Rainfall,34.4,-2.1 to 3.5,Extreme rainfall
+2013-06-13,Rainfall,8.4,-2.1 to 3.5,Extreme rainfall
+2013-06-19,Rainfall,15.6,-2.1 to 3.5,Extreme rainfall
+2013-06-23,Rainfall,56.2,-2.1 to 3.5,Extreme rainfall
+2013-06-24,Rainfall,53.4,-2.1 to 3.5,Extreme rainfall
+2013-06-25,Rainfall,5.0,-2.1 to 3.5,Extreme rainfall
+2013-06-26,Rainfall,15.6,-2.1 to 3.5,Extreme rainfall
+2013-06-28,Rainfall,16.8,-2.1 to 3.5,Extreme rainfall
+2013-06-29,Rainfall,41.0,-2.1 to 3.5,Extreme rainfall
+2013-06-30,Rainfall,51.0,-2.1 to 3.5,Extreme rainfall
+2013-07-01,Rainfall,9.8,-2.1 to 3.5,Extreme rainfall
+2013-07-05,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2013-07-10,Rainfall,8.0,-2.1 to 3.5,Extreme rainfall
+2013-07-17,Rainfall,4.8,-2.1 to 3.5,Extreme rainfall
+2013-07-31,Rainfall,5.6,-2.1 to 3.5,Extreme rainfall
+2013-08-08,Rainfall,9.6,-2.1 to 3.5,Extreme rainfall
+2013-08-09,Rainfall,4.2,-2.1 to 3.5,Extreme rainfall
+2013-08-12,WindGustSpeed,94.0,21.5 to 57.5,Unusually high wind gust
+2013-08-19,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2013-09-10,WindGustSpeed,74.0,21.5 to 57.5,Unusually high wind gust
+2013-09-12,WindGustSpeed,74.0,21.5 to 57.5,Unusually high wind gust
+2013-09-16,WindGustSpeed,80.0,21.5 to 57.5,Unusually high wind gust
+2013-09-17,Rainfall,32.2,-2.1 to 3.5,Extreme rainfall
+2013-09-19,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2013-09-20,WindGustSpeed,69.0,21.5 to 57.5,Unusually high wind gust
+2013-09-28,Humidity3pm,13.0,14.0 to 94.0,Unusually high/low humidity
+2013-09-28,WindGustSpeed,76.0,21.5 to 57.5,Unusually high wind gust
+2013-10-01,WindGustSpeed,85.0,21.5 to 57.5,Unusually high wind gust
+2013-10-03,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2013-10-04,Rainfall,5.0,-2.1 to 3.5,Extreme rainfall
+2013-10-10,MaxTemp,37.3,10.0 to 35.6,Unusually high/low max temperature
+2013-10-10,WindGustSpeed,74.0,21.5 to 57.5,Unusually high wind gust
+2013-10-10,Humidity3pm,10.0,14.0 to 94.0,Unusually high/low humidity
+2013-10-11,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2013-10-13,Humidity3pm,10.0,14.0 to 94.0,Unusually high/low humidity
+2013-10-13,WindGustSpeed,80.0,21.5 to 57.5,Unusually high wind gust
+2013-10-14,Rainfall,5.0,-2.1 to 3.5,Extreme rainfall
+2013-10-17,Humidity3pm,10.0,14.0 to 94.0,Unusually high/low humidity
+2013-10-17,WindGustSpeed,80.0,21.5 to 57.5,Unusually high wind gust
+2013-10-23,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2013-10-23,Rainfall,3.6,-2.1 to 3.5,Extreme rainfall
+2013-10-24,WindGustSpeed,70.0,21.5 to 57.5,Unusually high wind gust
+2013-10-28,Rainfall,28.2,-2.1 to 3.5,Extreme rainfall
+2013-10-28,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2013-10-29,WindGustSpeed,93.0,21.5 to 57.5,Unusually high wind gust
+2013-11-03,Humidity3pm,11.0,14.0 to 94.0,Unusually high/low humidity
+2013-11-08,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2013-11-10,Rainfall,11.6,-2.1 to 3.5,Extreme rainfall
+2013-11-11,Rainfall,39.6,-2.1 to 3.5,Extreme rainfall
+2013-11-12,Rainfall,20.2,-2.1 to 3.5,Extreme rainfall
+2013-11-13,Rainfall,7.4,-2.1 to 3.5,Extreme rainfall
+2013-11-15,WindGustSpeed,69.0,21.5 to 57.5,Unusually high wind gust
+2013-11-16,Rainfall,23.0,-2.1 to 3.5,Extreme rainfall
+2013-11-17,Rainfall,40.8,-2.1 to 3.5,Extreme rainfall
+2013-11-18,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2013-11-18,Rainfall,11.2,-2.1 to 3.5,Extreme rainfall
+2013-11-19,Rainfall,17.6,-2.1 to 3.5,Extreme rainfall
+2013-11-22,WindGustSpeed,69.0,21.5 to 57.5,Unusually high wind gust
+2013-11-23,Rainfall,7.4,-2.1 to 3.5,Extreme rainfall
+2013-11-24,Rainfall,3.6,-2.1 to 3.5,Extreme rainfall
+2013-11-25,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2013-11-26,Rainfall,4.2,-2.1 to 3.5,Extreme rainfall
+2013-11-29,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2013-12-05,WindGustSpeed,78.0,21.5 to 57.5,Unusually high wind gust
+2013-12-05,Rainfall,4.0,-2.1 to 3.5,Extreme rainfall
+2013-12-06,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2013-12-23,MaxTemp,36.0,10.0 to 35.6,Unusually high/low max temperature
+2013-12-26,Rainfall,21.0,-2.1 to 3.5,Extreme rainfall
+2013-12-29,WindGustSpeed,78.0,21.5 to 57.5,Unusually high wind gust
+2014-01-02,MaxTemp,36.5,10.0 to 35.6,Unusually high/low max temperature
+2014-01-05,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2014-01-08,Rainfall,5.8,-2.1 to 3.5,Extreme rainfall
+2014-01-21,Rainfall,5.0,-2.1 to 3.5,Extreme rainfall
+2014-02-04,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2014-02-10,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2014-02-16,Rainfall,6.0,-2.1 to 3.5,Extreme rainfall
+2014-02-17,Rainfall,21.8,-2.1 to 3.5,Extreme rainfall
+2014-02-20,Rainfall,13.2,-2.1 to 3.5,Extreme rainfall
+2014-02-27,Rainfall,4.4,-2.1 to 3.5,Extreme rainfall
+2014-03-01,Rainfall,10.4,-2.1 to 3.5,Extreme rainfall
+2014-03-02,Rainfall,6.6,-2.1 to 3.5,Extreme rainfall
+2014-03-03,Rainfall,4.6,-2.1 to 3.5,Extreme rainfall
+2014-03-13,Rainfall,27.8,-2.1 to 3.5,Extreme rainfall
+2014-03-15,WindGustSpeed,91.0,21.5 to 57.5,Unusually high wind gust
+2014-03-16,Rainfall,5.4,-2.1 to 3.5,Extreme rainfall
+2014-03-17,Rainfall,5.0,-2.1 to 3.5,Extreme rainfall
+2014-03-25,Rainfall,6.8,-2.1 to 3.5,Extreme rainfall
+2014-03-27,Rainfall,18.0,-2.1 to 3.5,Extreme rainfall
+2014-03-28,Rainfall,7.4,-2.1 to 3.5,Extreme rainfall
+2014-03-31,Rainfall,3.6,-2.1 to 3.5,Extreme rainfall
+2014-04-05,Rainfall,5.6,-2.1 to 3.5,Extreme rainfall
+2014-04-07,Rainfall,16.0,-2.1 to 3.5,Extreme rainfall
+2014-04-08,Rainfall,5.0,-2.1 to 3.5,Extreme rainfall
+2014-04-10,WindGustSpeed,17.0,21.5 to 57.5,Unusually high wind gust
+2014-04-11,Rainfall,5.6,-2.1 to 3.5,Extreme rainfall
+2014-04-12,Rainfall,5.0,-2.1 to 3.5,Extreme rainfall
+2014-04-13,Rainfall,3.8,-2.1 to 3.5,Extreme rainfall
+2014-04-15,Rainfall,4.2,-2.1 to 3.5,Extreme rainfall
+2014-04-16,Rainfall,29.6,-2.1 to 3.5,Extreme rainfall
+2014-04-22,WindGustSpeed,20.0,21.5 to 57.5,Unusually high wind gust
+2014-04-25,Rainfall,6.8,-2.1 to 3.5,Extreme rainfall
+2014-04-26,Rainfall,9.2,-2.1 to 3.5,Extreme rainfall
+2014-04-28,WindGustSpeed,20.0,21.5 to 57.5,Unusually high wind gust
+2014-04-28,Rainfall,20.2,-2.1 to 3.5,Extreme rainfall
+2014-05-04,Rainfall,3.8,-2.1 to 3.5,Extreme rainfall
+2014-05-09,Rainfall,7.4,-2.1 to 3.5,Extreme rainfall
+2014-05-13,Rainfall,11.2,-2.1 to 3.5,Extreme rainfall
+2014-05-18,WindGustSpeed,20.0,21.5 to 57.5,Unusually high wind gust
+2014-06-01,Rainfall,11.2,-2.1 to 3.5,Extreme rainfall
+2014-06-05,Rainfall,8.6,-2.1 to 3.5,Extreme rainfall
+2014-06-06,Rainfall,13.2,-2.1 to 3.5,Extreme rainfall
+2014-06-07,Rainfall,6.8,-2.1 to 3.5,Extreme rainfall
+2014-06-10,Rainfall,13.8,-2.1 to 3.5,Extreme rainfall
+2014-06-11,Rainfall,5.6,-2.1 to 3.5,Extreme rainfall
+2014-06-14,Rainfall,5.0,-2.1 to 3.5,Extreme rainfall
+2014-06-24,WindGustSpeed,81.0,21.5 to 57.5,Unusually high wind gust
+2014-06-25,WindGustSpeed,76.0,21.5 to 57.5,Unusually high wind gust
+2014-06-28,WindGustSpeed,96.0,21.5 to 57.5,Unusually high wind gust
+2014-06-29,WindGustSpeed,69.0,21.5 to 57.5,Unusually high wind gust
+2014-07-09,WindGustSpeed,67.0,21.5 to 57.5,Unusually high wind gust
+2014-07-10,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2014-07-18,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2014-07-19,WindGustSpeed,70.0,21.5 to 57.5,Unusually high wind gust
+2014-07-24,WindGustSpeed,20.0,21.5 to 57.5,Unusually high wind gust
+2014-07-26,Rainfall,8.2,-2.1 to 3.5,Extreme rainfall
+2014-07-27,Rainfall,4.2,-2.1 to 3.5,Extreme rainfall
+2014-07-31,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2014-08-01,WindGustSpeed,72.0,21.5 to 57.5,Unusually high wind gust
+2014-08-12,Rainfall,21.4,-2.1 to 3.5,Extreme rainfall
+2014-08-13,Rainfall,19.4,-2.1 to 3.5,Extreme rainfall
+2014-08-17,Rainfall,28.6,-2.1 to 3.5,Extreme rainfall
+2014-08-18,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2014-08-18,Rainfall,21.8,-2.1 to 3.5,Extreme rainfall
+2014-08-19,WindGustSpeed,78.0,21.5 to 57.5,Unusually high wind gust
+2014-08-19,Rainfall,38.4,-2.1 to 3.5,Extreme rainfall
+2014-08-20,Rainfall,8.2,-2.1 to 3.5,Extreme rainfall
+2014-08-21,Rainfall,10.8,-2.1 to 3.5,Extreme rainfall
+2014-08-22,Rainfall,10.2,-2.1 to 3.5,Extreme rainfall
+2014-08-24,Rainfall,3.8,-2.1 to 3.5,Extreme rainfall
+2014-08-26,Rainfall,12.6,-2.1 to 3.5,Extreme rainfall
+2014-08-27,Rainfall,13.2,-2.1 to 3.5,Extreme rainfall
+2014-08-28,Rainfall,15.2,-2.1 to 3.5,Extreme rainfall
+2014-09-02,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2014-09-03,Rainfall,5.0,-2.1 to 3.5,Extreme rainfall
+2014-09-03,WindGustSpeed,76.0,21.5 to 57.5,Unusually high wind gust
+2014-09-04,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2014-09-05,Rainfall,4.4,-2.1 to 3.5,Extreme rainfall
+2014-09-06,Rainfall,11.0,-2.1 to 3.5,Extreme rainfall
+2014-09-07,Rainfall,18.4,-2.1 to 3.5,Extreme rainfall
+2014-09-10,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2014-09-10,Rainfall,5.0,-2.1 to 3.5,Extreme rainfall
+2014-09-25,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2014-10-01,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2014-10-05,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2014-10-07,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2014-10-08,Rainfall,5.4,-2.1 to 3.5,Extreme rainfall
+2014-10-14,WindGustSpeed,76.0,21.5 to 57.5,Unusually high wind gust
+2014-10-14,Rainfall,9.4,-2.1 to 3.5,Extreme rainfall
+2014-10-15,WindGustSpeed,78.0,21.5 to 57.5,Unusually high wind gust
+2014-10-15,Rainfall,70.8,-2.1 to 3.5,Extreme rainfall
+2014-10-20,WindGustSpeed,69.0,21.5 to 57.5,Unusually high wind gust
+2014-10-27,WindGustSpeed,70.0,21.5 to 57.5,Unusually high wind gust
+2014-11-05,WindGustSpeed,67.0,21.5 to 57.5,Unusually high wind gust
+2014-11-14,WindGustSpeed,72.0,21.5 to 57.5,Unusually high wind gust
+2014-11-16,WindGustSpeed,74.0,21.5 to 57.5,Unusually high wind gust
+2014-11-16,Rainfall,5.6,-2.1 to 3.5,Extreme rainfall
+2014-11-21,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2014-11-25,Rainfall,5.0,-2.1 to 3.5,Extreme rainfall
+2014-12-02,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2014-12-02,Rainfall,8.2,-2.1 to 3.5,Extreme rainfall
+2014-12-03,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2014-12-04,Rainfall,23.8,-2.1 to 3.5,Extreme rainfall
+2014-12-04,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2014-12-05,Rainfall,6.2,-2.1 to 3.5,Extreme rainfall
+2014-12-07,Rainfall,5.4,-2.1 to 3.5,Extreme rainfall
+2014-12-08,WindGustSpeed,70.0,21.5 to 57.5,Unusually high wind gust
+2014-12-08,Rainfall,15.8,-2.1 to 3.5,Extreme rainfall
+2014-12-11,Rainfall,9.8,-2.1 to 3.5,Extreme rainfall
+2014-12-11,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2014-12-16,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2014-12-25,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2014-12-26,Rainfall,28.6,-2.1 to 3.5,Extreme rainfall
+2015-01-11,Rainfall,21.0,-2.1 to 3.5,Extreme rainfall
+2015-01-12,Rainfall,9.6,-2.1 to 3.5,Extreme rainfall
+2015-01-13,Rainfall,4.8,-2.1 to 3.5,Extreme rainfall
+2015-01-17,MaxTemp,35.7,10.0 to 35.6,Unusually high/low max temperature
+2015-01-20,Rainfall,6.2,-2.1 to 3.5,Extreme rainfall
+2015-01-21,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2015-01-21,Rainfall,18.0,-2.1 to 3.5,Extreme rainfall
+2015-01-25,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2015-01-27,Rainfall,33.0,-2.1 to 3.5,Extreme rainfall
+2015-01-28,Rainfall,57.0,-2.1 to 3.5,Extreme rainfall
+2015-01-29,Rainfall,14.0,-2.1 to 3.5,Extreme rainfall
+2015-02-02,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2015-02-05,Rainfall,7.4,-2.1 to 3.5,Extreme rainfall
+2015-02-13,Rainfall,6.8,-2.1 to 3.5,Extreme rainfall
+2015-02-14,Rainfall,4.4,-2.1 to 3.5,Extreme rainfall
+2015-02-24,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2015-02-26,Rainfall,4.2,-2.1 to 3.5,Extreme rainfall
+2015-02-26,WindGustSpeed,20.0,21.5 to 57.5,Unusually high wind gust
+2015-02-27,Rainfall,26.8,-2.1 to 3.5,Extreme rainfall
+2015-03-01,WindGustSpeed,91.0,21.5 to 57.5,Unusually high wind gust
+2015-03-01,MaxTemp,36.4,10.0 to 35.6,Unusually high/low max temperature
+2015-03-02,Rainfall,11.4,-2.1 to 3.5,Extreme rainfall
+2015-03-05,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2015-03-15,WindGustSpeed,70.0,21.5 to 57.5,Unusually high wind gust
+2015-03-16,Rainfall,8.8,-2.1 to 3.5,Extreme rainfall
+2015-03-20,WindGustSpeed,72.0,21.5 to 57.5,Unusually high wind gust
+2015-03-25,Rainfall,22.4,-2.1 to 3.5,Extreme rainfall
+2015-03-31,Rainfall,14.2,-2.1 to 3.5,Extreme rainfall
+2015-04-01,Rainfall,6.0,-2.1 to 3.5,Extreme rainfall
+2015-04-04,Rainfall,24.0,-2.1 to 3.5,Extreme rainfall
+2015-04-05,Rainfall,21.4,-2.1 to 3.5,Extreme rainfall
+2015-04-07,WindGustSpeed,70.0,21.5 to 57.5,Unusually high wind gust
+2015-04-08,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2015-04-08,Rainfall,5.8,-2.1 to 3.5,Extreme rainfall
+2015-04-11,Rainfall,7.8,-2.1 to 3.5,Extreme rainfall
+2015-04-17,WindGustSpeed,20.0,21.5 to 57.5,Unusually high wind gust
+2015-04-19,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2015-04-20,Rainfall,13.2,-2.1 to 3.5,Extreme rainfall
+2015-04-20,WindGustSpeed,83.0,21.5 to 57.5,Unusually high wind gust
+2015-04-21,Humidity3pm,96.0,14.0 to 94.0,Unusually high/low humidity
+2015-04-21,WindGustSpeed,87.0,21.5 to 57.5,Unusually high wind gust
+2015-04-21,Rainfall,119.4,-2.1 to 3.5,Extreme rainfall
+2015-04-22,WindGustSpeed,72.0,21.5 to 57.5,Unusually high wind gust
+2015-04-22,Rainfall,105.8,-2.1 to 3.5,Extreme rainfall
+2015-04-23,Rainfall,29.0,-2.1 to 3.5,Extreme rainfall
+2015-04-24,WindGustSpeed,19.0,21.5 to 57.5,Unusually high wind gust
+2015-04-26,Rainfall,13.0,-2.1 to 3.5,Extreme rainfall
+2015-04-27,Rainfall,4.0,-2.1 to 3.5,Extreme rainfall
+2015-04-30,Rainfall,10.2,-2.1 to 3.5,Extreme rainfall
+2015-05-01,Rainfall,28.4,-2.1 to 3.5,Extreme rainfall
+2015-05-02,Rainfall,8.6,-2.1 to 3.5,Extreme rainfall
+2015-05-02,Humidity3pm,95.0,14.0 to 94.0,Unusually high/low humidity
+2015-05-03,Rainfall,31.6,-2.1 to 3.5,Extreme rainfall
+2015-05-11,WindGustSpeed,70.0,21.5 to 57.5,Unusually high wind gust
+2015-05-13,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2015-05-18,WindGustSpeed,20.0,21.5 to 57.5,Unusually high wind gust
+2015-05-22,WindGustSpeed,72.0,21.5 to 57.5,Unusually high wind gust
+2015-05-22,Rainfall,11.2,-2.1 to 3.5,Extreme rainfall
+2015-05-23,Rainfall,24.4,-2.1 to 3.5,Extreme rainfall
+2015-06-01,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2015-06-11,Rainfall,6.6,-2.1 to 3.5,Extreme rainfall
+2015-06-17,Rainfall,10.8,-2.1 to 3.5,Extreme rainfall
+2015-06-19,Rainfall,67.0,-2.1 to 3.5,Extreme rainfall
+2015-06-20,Rainfall,7.2,-2.1 to 3.5,Extreme rainfall
+2015-06-26,Rainfall,6.2,-2.1 to 3.5,Extreme rainfall
+2015-07-02,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2015-07-08,Rainfall,5.6,-2.1 to 3.5,Extreme rainfall
+2015-07-11,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2015-07-13,WindGustSpeed,76.0,21.5 to 57.5,Unusually high wind gust
+2015-07-13,Rainfall,4.8,-2.1 to 3.5,Extreme rainfall
+2015-07-17,Rainfall,17.2,-2.1 to 3.5,Extreme rainfall
+2015-07-18,Rainfall,9.0,-2.1 to 3.5,Extreme rainfall
+2015-07-26,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2015-07-27,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2015-08-01,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2015-08-12,WindGustSpeed,74.0,21.5 to 57.5,Unusually high wind gust
+2015-08-17,Rainfall,5.6,-2.1 to 3.5,Extreme rainfall
+2015-08-24,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2015-08-24,Rainfall,4.2,-2.1 to 3.5,Extreme rainfall
+2015-08-24,Humidity3pm,95.0,14.0 to 94.0,Unusually high/low humidity
+2015-08-25,Rainfall,54.4,-2.1 to 3.5,Extreme rainfall
+2015-08-26,Rainfall,5.2,-2.1 to 3.5,Extreme rainfall
+2015-09-04,Rainfall,20.4,-2.1 to 3.5,Extreme rainfall
+2015-09-19,Rainfall,10.8,-2.1 to 3.5,Extreme rainfall
+2015-09-22,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2015-09-23,WindGustSpeed,69.0,21.5 to 57.5,Unusually high wind gust
+2015-09-24,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2015-09-25,Rainfall,31.8,-2.1 to 3.5,Extreme rainfall
+2015-09-27,Rainfall,3.6,-2.1 to 3.5,Extreme rainfall
+2015-10-04,Humidity3pm,13.0,14.0 to 94.0,Unusually high/low humidity
+2015-10-05,MaxTemp,37.0,10.0 to 35.6,Unusually high/low max temperature
+2015-10-05,WindGustSpeed,20.0,21.5 to 57.5,Unusually high wind gust
+2015-10-07,WindGustSpeed,67.0,21.5 to 57.5,Unusually high wind gust
+2015-10-12,Rainfall,3.6,-2.1 to 3.5,Extreme rainfall
+2015-10-22,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2015-10-22,Rainfall,8.4,-2.1 to 3.5,Extreme rainfall
+2015-10-23,Rainfall,14.8,-2.1 to 3.5,Extreme rainfall
+2015-10-26,WindGustSpeed,69.0,21.5 to 57.5,Unusually high wind gust
+2015-10-27,Rainfall,7.6,-2.1 to 3.5,Extreme rainfall
+2015-11-02,Rainfall,26.0,-2.1 to 3.5,Extreme rainfall
+2015-11-04,Rainfall,3.8,-2.1 to 3.5,Extreme rainfall
+2015-11-05,Rainfall,13.0,-2.1 to 3.5,Extreme rainfall
+2015-11-06,Rainfall,11.6,-2.1 to 3.5,Extreme rainfall
+2015-11-07,Rainfall,10.0,-2.1 to 3.5,Extreme rainfall
+2015-11-14,Rainfall,18.2,-2.1 to 3.5,Extreme rainfall
+2015-11-15,Rainfall,29.6,-2.1 to 3.5,Extreme rainfall
+2015-11-16,Rainfall,5.0,-2.1 to 3.5,Extreme rainfall
+2015-11-18,MaxTemp,36.5,10.0 to 35.6,Unusually high/low max temperature
+2015-11-20,MaxTemp,40.9,10.0 to 35.6,Unusually high/low max temperature
+2015-11-20,Humidity3pm,13.0,14.0 to 94.0,Unusually high/low humidity
+2015-11-26,MaxTemp,37.8,10.0 to 35.6,Unusually high/low max temperature
+2015-11-26,WindGustSpeed,74.0,21.5 to 57.5,Unusually high wind gust
+2015-12-01,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2015-12-02,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2015-12-09,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2015-12-10,Rainfall,15.2,-2.1 to 3.5,Extreme rainfall
+2015-12-11,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2015-12-11,Humidity3pm,13.0,14.0 to 94.0,Unusually high/low humidity
+2015-12-16,WindGustSpeed,80.0,21.5 to 57.5,Unusually high wind gust
+2015-12-17,Rainfall,9.8,-2.1 to 3.5,Extreme rainfall
+2015-12-22,Rainfall,29.8,-2.1 to 3.5,Extreme rainfall
+2015-12-23,Rainfall,34.0,-2.1 to 3.5,Extreme rainfall
+2015-12-27,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2016-01-04,Rainfall,15.0,-2.1 to 3.5,Extreme rainfall
+2016-01-05,Rainfall,34.2,-2.1 to 3.5,Extreme rainfall
+2016-01-06,Rainfall,51.4,-2.1 to 3.5,Extreme rainfall
+2016-01-07,Rainfall,41.4,-2.1 to 3.5,Extreme rainfall
+2016-01-15,Rainfall,34.0,-2.1 to 3.5,Extreme rainfall
+2016-01-16,Rainfall,5.4,-2.1 to 3.5,Extreme rainfall
+2016-01-20,MaxTemp,37.5,10.0 to 35.6,Unusually high/low max temperature
+2016-01-21,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2016-01-22,Rainfall,30.6,-2.1 to 3.5,Extreme rainfall
+2016-01-23,Rainfall,13.0,-2.1 to 3.5,Extreme rainfall
+2016-01-29,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2016-01-30,WindGustSpeed,70.0,21.5 to 57.5,Unusually high wind gust
+2016-01-30,Rainfall,9.0,-2.1 to 3.5,Extreme rainfall
+2016-01-31,Rainfall,12.8,-2.1 to 3.5,Extreme rainfall
+2016-02-04,Rainfall,10.8,-2.1 to 3.5,Extreme rainfall
+2016-02-04,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2016-02-05,Rainfall,3.6,-2.1 to 3.5,Extreme rainfall
+2016-02-21,Rainfall,6.0,-2.1 to 3.5,Extreme rainfall
+2016-02-26,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2016-03-15,Rainfall,16.8,-2.1 to 3.5,Extreme rainfall
+2016-03-16,Rainfall,23.0,-2.1 to 3.5,Extreme rainfall
+2016-03-17,Rainfall,13.6,-2.1 to 3.5,Extreme rainfall
+2016-03-19,Rainfall,4.8,-2.1 to 3.5,Extreme rainfall
+2016-03-21,Rainfall,61.2,-2.1 to 3.5,Extreme rainfall
+2016-03-22,Rainfall,25.4,-2.1 to 3.5,Extreme rainfall
+2016-03-28,Rainfall,34.8,-2.1 to 3.5,Extreme rainfall
+2016-03-30,Rainfall,7.0,-2.1 to 3.5,Extreme rainfall
+2016-04-04,Rainfall,94.4,-2.1 to 3.5,Extreme rainfall
+2016-04-05,Rainfall,6.4,-2.1 to 3.5,Extreme rainfall
+2016-04-12,Rainfall,8.2,-2.1 to 3.5,Extreme rainfall
+2016-04-19,Rainfall,15.0,-2.1 to 3.5,Extreme rainfall
+2016-04-20,Rainfall,15.8,-2.1 to 3.5,Extreme rainfall
+2016-04-23,Rainfall,6.6,-2.1 to 3.5,Extreme rainfall
+2016-04-24,Rainfall,3.8,-2.1 to 3.5,Extreme rainfall
+2016-04-25,WindGustSpeed,20.0,21.5 to 57.5,Unusually high wind gust
+2016-05-10,WindGustSpeed,72.0,21.5 to 57.5,Unusually high wind gust
+2016-05-23,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2016-05-27,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2016-06-01,Rainfall,29.4,-2.1 to 3.5,Extreme rainfall
+2016-06-04,Rainfall,64.4,-2.1 to 3.5,Extreme rainfall
+2016-06-04,WindGustSpeed,89.0,21.5 to 57.5,Unusually high wind gust
+2016-06-05,WindGustSpeed,96.0,21.5 to 57.5,Unusually high wind gust
+2016-06-05,Rainfall,93.8,-2.1 to 3.5,Extreme rainfall
+2016-06-06,Rainfall,68.4,-2.1 to 3.5,Extreme rainfall
+2016-06-06,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2016-06-09,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2016-06-18,Rainfall,5.0,-2.1 to 3.5,Extreme rainfall
+2016-06-20,Rainfall,38.8,-2.1 to 3.5,Extreme rainfall
+2016-06-21,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2016-06-24,WindGustSpeed,69.0,21.5 to 57.5,Unusually high wind gust
+2016-07-05,Rainfall,4.8,-2.1 to 3.5,Extreme rainfall
+2016-07-06,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2016-07-07,Rainfall,29.4,-2.1 to 3.5,Extreme rainfall
+2016-07-08,Rainfall,22.4,-2.1 to 3.5,Extreme rainfall
+2016-07-11,WindGustSpeed,69.0,21.5 to 57.5,Unusually high wind gust
+2016-07-13,WindGustSpeed,72.0,21.5 to 57.5,Unusually high wind gust
+2016-07-19,WindGustSpeed,20.0,21.5 to 57.5,Unusually high wind gust
+2016-07-20,Rainfall,17.0,-2.1 to 3.5,Extreme rainfall
+2016-07-21,Rainfall,20.4,-2.1 to 3.5,Extreme rainfall
+2016-07-23,WindGustSpeed,69.0,21.5 to 57.5,Unusually high wind gust
+2016-07-23,Rainfall,6.0,-2.1 to 3.5,Extreme rainfall
+2016-07-27,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2016-08-03,Rainfall,24.8,-2.1 to 3.5,Extreme rainfall
+2016-08-03,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2016-08-05,Rainfall,4.0,-2.1 to 3.5,Extreme rainfall
+2016-08-20,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2016-08-25,Rainfall,52.8,-2.1 to 3.5,Extreme rainfall
+2016-09-02,Rainfall,14.4,-2.1 to 3.5,Extreme rainfall
+2016-09-03,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2016-09-03,Rainfall,23.4,-2.1 to 3.5,Extreme rainfall
+2016-09-14,Rainfall,5.8,-2.1 to 3.5,Extreme rainfall
+2016-09-19,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2016-09-19,Rainfall,13.4,-2.1 to 3.5,Extreme rainfall
+2016-09-23,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2016-09-26,Rainfall,4.0,-2.1 to 3.5,Extreme rainfall
+2016-09-27,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2016-09-30,WindGustSpeed,67.0,21.5 to 57.5,Unusually high wind gust
+2016-10-03,WindGustSpeed,72.0,21.5 to 57.5,Unusually high wind gust
+2016-10-04,WindGustSpeed,70.0,21.5 to 57.5,Unusually high wind gust
+2016-10-11,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2016-10-11,Rainfall,3.8,-2.1 to 3.5,Extreme rainfall
+2016-10-13,Rainfall,4.4,-2.1 to 3.5,Extreme rainfall
+2016-10-22,Rainfall,11.8,-2.1 to 3.5,Extreme rainfall
+2016-10-23,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2016-11-05,WindGustSpeed,76.0,21.5 to 57.5,Unusually high wind gust
+2016-11-10,Rainfall,10.2,-2.1 to 3.5,Extreme rainfall
+2016-11-12,Rainfall,9.0,-2.1 to 3.5,Extreme rainfall
+2016-11-13,WindGustSpeed,72.0,21.5 to 57.5,Unusually high wind gust
+2016-11-24,Rainfall,5.4,-2.1 to 3.5,Extreme rainfall
+2016-12-02,MaxTemp,35.7,10.0 to 35.6,Unusually high/low max temperature
+2016-12-05,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2016-12-07,Rainfall,7.8,-2.1 to 3.5,Extreme rainfall
+2016-12-09,WindGustSpeed,72.0,21.5 to 57.5,Unusually high wind gust
+2016-12-13,MaxTemp,37.8,10.0 to 35.6,Unusually high/low max temperature
+2016-12-14,MaxTemp,37.2,10.0 to 35.6,Unusually high/low max temperature
+2016-12-15,Rainfall,8.2,-2.1 to 3.5,Extreme rainfall
+2016-12-16,Rainfall,32.6,-2.1 to 3.5,Extreme rainfall
+2016-12-17,Rainfall,10.4,-2.1 to 3.5,Extreme rainfall
+2016-12-17,WindGustSpeed,70.0,21.5 to 57.5,Unusually high wind gust
+2016-12-28,WindGustSpeed,61.0,21.5 to 57.5,Unusually high wind gust
+2016-12-29,MaxTemp,36.6,10.0 to 35.6,Unusually high/low max temperature
+2017-01-05,Rainfall,5.0,-2.1 to 3.5,Extreme rainfall
+2017-01-06,Rainfall,8.8,-2.1 to 3.5,Extreme rainfall
+2017-01-07,Rainfall,4.4,-2.1 to 3.5,Extreme rainfall
+2017-01-11,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2017-01-11,MaxTemp,37.7,10.0 to 35.6,Unusually high/low max temperature
+2017-01-17,MaxTemp,36.6,10.0 to 35.6,Unusually high/low max temperature
+2017-01-18,MaxTemp,38.1,10.0 to 35.6,Unusually high/low max temperature
+2017-01-18,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2017-01-20,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2017-01-21,Rainfall,7.8,-2.1 to 3.5,Extreme rainfall
+2017-01-24,MaxTemp,37.0,10.0 to 35.6,Unusually high/low max temperature
+2017-01-24,WindGustSpeed,69.0,21.5 to 57.5,Unusually high wind gust
+2017-01-25,Rainfall,17.8,-2.1 to 3.5,Extreme rainfall
+2017-01-31,MaxTemp,39.4,10.0 to 35.6,Unusually high/low max temperature
+2017-02-02,Rainfall,4.4,-2.1 to 3.5,Extreme rainfall
+2017-02-07,Rainfall,6.4,-2.1 to 3.5,Extreme rainfall
+2017-02-08,Rainfall,85.0,-2.1 to 3.5,Extreme rainfall
+2017-02-09,Rainfall,5.4,-2.1 to 3.5,Extreme rainfall
+2017-02-10,MaxTemp,37.5,10.0 to 35.6,Unusually high/low max temperature
+2017-02-11,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2017-02-11,MaxTemp,36.2,10.0 to 35.6,Unusually high/low max temperature
+2017-02-12,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2017-02-15,Rainfall,25.6,-2.1 to 3.5,Extreme rainfall
+2017-02-17,WindGustSpeed,70.0,21.5 to 57.5,Unusually high wind gust
+2017-02-18,Rainfall,8.0,-2.1 to 3.5,Extreme rainfall
+2017-02-20,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2017-02-25,Rainfall,7.8,-2.1 to 3.5,Extreme rainfall
+2017-02-26,Rainfall,28.6,-2.1 to 3.5,Extreme rainfall
+2017-02-27,Rainfall,26.4,-2.1 to 3.5,Extreme rainfall
+2017-03-01,Rainfall,26.4,-2.1 to 3.5,Extreme rainfall
+2017-03-03,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2017-03-03,Rainfall,37.8,-2.1 to 3.5,Extreme rainfall
+2017-03-04,Rainfall,27.6,-2.1 to 3.5,Extreme rainfall
+2017-03-05,Rainfall,7.6,-2.1 to 3.5,Extreme rainfall
+2017-03-06,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2017-03-08,Rainfall,5.0,-2.1 to 3.5,Extreme rainfall
+2017-03-15,Rainfall,38.0,-2.1 to 3.5,Extreme rainfall
+2017-03-17,Rainfall,20.0,-2.1 to 3.5,Extreme rainfall
+2017-03-17,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2017-03-18,Rainfall,45.8,-2.1 to 3.5,Extreme rainfall
+2017-03-18,WindGustSpeed,65.0,21.5 to 57.5,Unusually high wind gust
+2017-03-19,Rainfall,4.2,-2.1 to 3.5,Extreme rainfall
+2017-03-22,WindGustSpeed,63.0,21.5 to 57.5,Unusually high wind gust
+2017-03-22,Rainfall,25.6,-2.1 to 3.5,Extreme rainfall
+2017-03-23,Rainfall,18.2,-2.1 to 3.5,Extreme rainfall
+2017-03-24,Rainfall,10.2,-2.1 to 3.5,Extreme rainfall
+2017-03-25,Rainfall,4.8,-2.1 to 3.5,Extreme rainfall
+2017-03-30,WindGustSpeed,69.0,21.5 to 57.5,Unusually high wind gust
+2017-03-31,Rainfall,42.4,-2.1 to 3.5,Extreme rainfall
+2017-04-03,Rainfall,33.8,-2.1 to 3.5,Extreme rainfall
+2017-04-04,Rainfall,7.8,-2.1 to 3.5,Extreme rainfall
+2017-04-09,WindGustSpeed,67.0,21.5 to 57.5,Unusually high wind gust
+2017-04-10,Rainfall,8.8,-2.1 to 3.5,Extreme rainfall
+2017-04-12,Rainfall,9.4,-2.1 to 3.5,Extreme rainfall
+2017-04-13,Rainfall,19.8,-2.1 to 3.5,Extreme rainfall
+2017-04-22,WindGustSpeed,19.0,21.5 to 57.5,Unusually high wind gust
+2017-05-04,Rainfall,3.8,-2.1 to 3.5,Extreme rainfall
+2017-05-15,Rainfall,5.2,-2.1 to 3.5,Extreme rainfall
+2017-05-20,Rainfall,14.6,-2.1 to 3.5,Extreme rainfall
+2017-06-06,WindGustSpeed,59.0,21.5 to 57.5,Unusually high wind gust
+2017-06-07,Rainfall,54.6,-2.1 to 3.5,Extreme rainfall
+2017-06-08,Rainfall,61.0,-2.1 to 3.5,Extreme rainfall
+2017-06-10,Rainfall,38.8,-2.1 to 3.5,Extreme rainfall
+2017-06-11,WindGustSpeed,20.0,21.5 to 57.5,Unusually high wind gust
+2017-06-20,Rainfall,4.4,-2.1 to 3.5,Extreme rainfall
