@@ -1,0 +1,13 @@
+Step,Rows_affected,Note
+Raw rows loaded,16719,
+Name values with stray whitespace trimmed,29,e.g. trailing spaces in Name / Publisher
+Rows dropped: missing Name AND Genre,2,"Both are Genesis 1993 rows, cannot be identified"
+Invalid Year set to NaN (>2016),4,Impossible for a Dec-2016 snapshot (2017 / 2020 values)
+Duplicate Name+Platform rows merged (sales summed),2,2 games; kept distinct releases with different years
+"Missing Publisher -> ""Unknown""",53,
+"Missing Developer -> ""Unknown""",6621,
+Publisher variants consolidated,9,"Square/SquareSoft->Square Enix, Sony CE America/Europe->Sony CE, etc."
+Rating: K-A merged into E; RP set to NaN,6,
+Score columns left missing (NOT imputed),8580,Imputing would invent ratings; score analysis uses only rated games
+Rows where regions != Global by >0.05M,0,Differences <=0.02M are rounding; Global kept as reported
+Final rows,16715,4 rows removed in total
